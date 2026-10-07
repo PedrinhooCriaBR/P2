@@ -1,0 +1,42 @@
+.topnav{
+          overflow: hidden;
+          background-color: hwb(0 15% 85%);
+}
+.topnav a{
+          float: left;
+          display: block;
+          text-align: center;
+          padding: 14px 16px;
+          text-decoration: none;
+          color: #ff0000;
+          font-weight: bold;
+          font-size: x-large;
+}
+.topnav a:hover{
+          background-color: #000000;
+          color: red;
+}
+
+.column{
+          float: left;
+          width: 33.33%;
+          background-color: gray;
+}
+
+img[src="bolsonaro.,.jpg"]{
+          width: 600px;
+          height: 600px;
+}
+img[src="luladf.jpg"]{
+          width: 600px;
+          height: 600px;
+}
+img[src="Sobre amizade verdadeira ✌🏻😝.jpg"]{
+          width: 600px;
+          height: 600px;
+}
+footer{
+          background-color: red;
+          text-align: center;
+          padding: 10px;
+}
